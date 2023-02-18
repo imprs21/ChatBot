@@ -4,14 +4,18 @@
 This repository contains code for building a chatbot using Python and several libraries, including Natural Language Processing (NLP) library NLTK, deep learning library Keras, machine learning library TensorFlow, and web application framework Flask.
 
 
-##Overview
+## Overview
 This chatbot is designed to simulate conversation with human users, using NLP techniques to understand user input and generate appropriate responses. It is built using a combination of rule-based and machine learning approaches, and is trained on a dataset of conversational data.
 ## Project UI
 Home Page:
 
-<img src="images/C1.jpg">
+<img src="images/C1.JPG">
 
-##Requirements
+Bot in action:
+<img src="images/C2.JPG">
+
+
+## Requirements
   -Python 3.6 or higher
   -NLTK
   -Keras
