@@ -16,11 +16,11 @@ Bot in action:
 
 
 ## Requirements
-  -Python 3.6 or higher
-  -NLTK
-  -Keras
-  -TensorFlow
-  -Flask
+-Python 3.6 or higher
+-NLTK
+-Keras
+-TensorFlow
+-Flask
   
 
 To run it locally on your system, follow these steps:
