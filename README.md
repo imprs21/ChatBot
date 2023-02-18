@@ -23,7 +23,7 @@ Bot in action:
 - Flask
   
 
-To run it locally on your system, follow these steps:
+## To run it locally on your system, follow these steps:
 1. Clone this repository onto your system. On Command Prompt, run the following command:
 ```
 git clone https://github.com/imprs21/ChatBot.git
